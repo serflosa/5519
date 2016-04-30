@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launchConfiguration type="com.ti.ccstudio.debug.core.CCELaunchType">
+<booleanAttribute key="org.eclipse.debug.ui.ATTR_LAUNCH_IN_BACKGROUND" value="false"/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_ID" value="com.ti.ccstudio.debug.core.CCEDebugger"/>
+<stringAttribute key="CCEDebugOptions.CPU_RESOLVE_OPTION" value="exact"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="torrija_v0.21"/>
+<stringAttribute key="CCEDebugOptions.LOADING_OPTION" value="program"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value=""/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_START_MODE" value="run"/>
+</launchConfiguration>
